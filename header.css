@@ -1,0 +1,19 @@
+header{
+    background-color: #e25647;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h1{
+    color: #fff;
+    font-family: ArialMT;
+    font-size: 40px;
+}
+
+a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 21px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
