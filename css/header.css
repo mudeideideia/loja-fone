@@ -1,0 +1,24 @@
+.store-header{
+    overflow: hidden;
+    color: #fff;
+}
+
+.store-header > .title {
+    color: #fff;
+    font-family: Arial, 'Roboto', sans-serif;
+    font-size: 40px;
+    float: left;
+}
+
+.store-header > .navegation {
+    font-size: 21px;
+    color: #fff;
+    float: right;
+}
+
+.store-header > .action {
+    color: inherit;
+    margin-left: 60px;
+    font-family: Arial, 'Roboto', sans-serif;
+    text-decoration: none;
+}
